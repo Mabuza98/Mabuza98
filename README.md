@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I'm Mabuza 👋
 
-<!--
-**Mabuza98/Mabuza98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior AI Engineer / Developer focused on building intelligent backend systems and AI-powered applications.
 
-Here are some ideas to get you started:
+==========
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I’m Working On
+
+- AI-powered financial analysis systems
+- Backend architecture with ASP.NET Core
+- Applied machine intelligence in real-world problems
+- Cloud deployment using Azure
+
+==========
+
+🧠 Technical Skills
+
+- C# / ASP.NET Core
+- REST API Design
+- React
+- Azure App Services
+- Financial logic & risk modeling
+- AI integration (LLM-powered systems)
+
+==========
+
+📌 Featured Project
+
+- AutoFinance AI
+- AI-powered car finance risk & affordability analysis system
+  
+→ Full-stack (ASP.NET Core + React)
+→ Azure + Vercel deployment
